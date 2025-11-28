@@ -20,6 +20,27 @@
               "resultFile": {
                 "uri": "file:///C:/DEV/csharp_estudos/csharp-003-exercicio-paint-shop/src/PaintShop/PaintUtilities.cs",
                 "region": {
+                  "startLine": 8,
+                  "startColumn": 23,
+                  "endLine": 8,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA2211",
+          "level": "note",
+          "message": "Non-constant fields should not be visible",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/DEV/csharp_estudos/csharp-003-exercicio-paint-shop/src/PaintShop/PaintUtilities.cs",
+                "region": {
                   "startLine": 6,
                   "startColumn": 23,
                   "endLine": 6,

@@ -5,6 +5,8 @@ public static class PaintUtilities
 {
     public static int SquareMetersPerBucket;
 
+    public static int BucketSizeLiters = 20;
+
     public static int GetNeededPaintBuckets(double area) {
          throw new NotImplementedException();
     }
