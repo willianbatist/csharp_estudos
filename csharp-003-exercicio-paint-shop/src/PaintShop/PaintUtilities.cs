@@ -8,7 +8,7 @@ public static class PaintUtilities
     public static int BucketSizeLiters = 20;
 
     public static int GetNeededPaintBuckets(double area) {
-        return 10;
+        throw new NotImplementedException();
     }
 
     public static int GetNeededPaintBuckets(Wall wall) {
