@@ -5,14 +5,14 @@ namespace PaintShop;
 // 3 - Crie uma classe estática PaintUtilities
 public static class PaintUtilities
 {
+    public static int BucketSizeLiters { get; } = 20;
+
+    public static int SquareMetersPerLiter { get; } = 10;
+
     public static int SquareMetersPerBucket
     {
         get { return SquareMetersPerLiter * BucketSizeLiters; }
     }
-
-    public static int BucketSizeLiters = 20;
-
-    public static int SquareMetersPerLiter = 10;
 
     public static int GetNeededPaintBuckets(double area) {
         double buckets = area / SquareMetersPerBucket;
