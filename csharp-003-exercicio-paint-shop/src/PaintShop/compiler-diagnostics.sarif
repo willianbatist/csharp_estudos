@@ -20,10 +20,10 @@
               "resultFile": {
                 "uri": "file:///C:/DEV/csharp_estudos/csharp-003-exercicio-paint-shop/src/PaintShop/PaintUtilities.cs",
                 "region": {
-                  "startLine": 15,
+                  "startLine": 13,
                   "startColumn": 23,
-                  "endLine": 15,
-                  "endColumn": 43
+                  "endLine": 13,
+                  "endColumn": 39
                 }
               }
             }
@@ -41,10 +41,10 @@
               "resultFile": {
                 "uri": "file:///C:/DEV/csharp_estudos/csharp-003-exercicio-paint-shop/src/PaintShop/PaintUtilities.cs",
                 "region": {
-                  "startLine": 13,
+                  "startLine": 15,
                   "startColumn": 23,
-                  "endLine": 13,
-                  "endColumn": 39
+                  "endLine": 15,
+                  "endColumn": 43
                 }
               }
             }
