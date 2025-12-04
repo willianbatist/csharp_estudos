@@ -28,7 +28,8 @@ public static class PaintUtilities
     }
 
     public static decimal CalculateCost(decimal price, double area) {
-        throw new NotImplementedException();
+        int buckets = GetNeededPaintBuckets(area);
+        return buckets * price;
     }
 
     public static decimal CalculateCost(decimal price, Wall wall) {
