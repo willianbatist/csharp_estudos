@@ -20,7 +20,7 @@ public static class PaintUtilities
     }
 
     public static int GetNeededPaintBuckets(Wall wall) {
-        throw new NotImplementedException();
+        return GetNeededPaintBuckets(wall.PaintableArea);
     }
 
     public static int GetNeededPaintBuckets(Room room) {
