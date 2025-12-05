@@ -24,4 +24,4 @@ O objetivo deste repositório é:
 
 ---
 
-Sinta-se à vontade para explorar, sugerir melhorias ou usar parte do conteúdo para estudar também! 🚀
+
