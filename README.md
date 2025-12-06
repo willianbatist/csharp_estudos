@@ -1,6 +1,6 @@
 # 🧩 Repositório de Exercícios em C#
 
-Bem-vindo ao meu repositório de estudos em **C#**!  
+Bem-vindo ao meu repositório de estudos em **C#**, **Microsservice**!  
 Aqui concentro meus exercícios, anotações e pequenos projetos desenvolvidos durante minha jornada de aprendizado na linguagem.
 
 ## 📘 Objetivo do Repositório
